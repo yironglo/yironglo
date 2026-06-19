@@ -1,6 +1,8 @@
 ## Hi there 👋
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yironglo&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
+<img src="./IMG/mew.gif" width="300" alt="mew"/>
+
 <!--
 **yironglo/yironglo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
